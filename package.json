@@ -1,0 +1,19 @@
+{
+  "name": "firemacro",
+  "version": "1.0.0",
+  "description": "macro transformation for objects",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metric-im/firemacro.git"
+  },
+  "author": "Michael Sprague",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metric-im/firemacro/issues"
+  },
+  "homepage": "https://github.com/metric-im/firemacro#readme"
+}
