@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/metric-im/firemacro/issues"
   },
-  "homepage": "https://github.com/metric-im/firemacro#readme"
+  "homepage": "https://github.com/metric-im/firemacro#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
 }
